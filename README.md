@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/waheed-safiu-5907a421b/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:waheedianho65@gmail.com)
-[![Website](https://img.shields.io/badge/Waheedianho-Website-green?style=flat-square)](http://waheedianho.com.ng/)
+[![Organization](https://img.shields.io/badge/Waheed-Website-green)](https://vets-who-code.github.io/)
 
 ## 🎯 Mission
 Transforming veterans' lives through code. Leading Vets Who Code to empower military veterans with modern software engineering skills and creating pathways to tech careers.
