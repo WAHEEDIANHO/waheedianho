@@ -120,8 +120,8 @@ Infra:       Google Cloud, Firebase, MongoDB
 
 ### 💬 Let’s Connect
 
-- 🌐 Website → [waheedianho.online](https://jerome.codes)
-- 💼 LinkedIn → [linkedin.com/in/waheed-safiu-5907a421b](https://linkedin.com/in/jeromehardaway)
+- 🌐 Website → [waheedianho.online](https://waheedianho.online)
+- 💼 LinkedIn → [linkedin.com/in/waheed-safiu-5907a421b](https://linkedin.com/in/waheed-safiu-5907a421b)
 
 [//]: # (- 🧠 Vets Who Code → [vetswhocode.io]&#40;https://vetswhocode.io&#41;)
 [//]: # (- 📺 YouTube → [@vetswhocode]&#40;https://www.youtube.com/@vetswhocode&#41;)
