@@ -36,7 +36,7 @@ Infra:       Google Cloud, Firebase, MongoDB
 - 📊 **Result Management System**   
 - 🎨 **Edu-Bridge** – Platform connecting students to tutors.
 - 🌃 **BayttTalim** – Platform connecting muslim learners.
-- 🧰 **waheedianho.online** – Portfolio, and project showcase.
+- 🧰 **waheedianho.codes** – Portfolio, and project showcase.
 
 ---
 
